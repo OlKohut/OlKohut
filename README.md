@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3 align="center">Студентка, яка вивчає програмну інженерію та вебтехнології.</h3>
+<h3 align="center">Вивчаю програмну інженерію та веб-технології.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
